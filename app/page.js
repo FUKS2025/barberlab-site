@@ -57,3 +57,4 @@ export default function BarberLABPage() {
     </div>
   );
 }
+// trigger redeploy
