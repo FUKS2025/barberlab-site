@@ -2,7 +2,8 @@ export default function BarberLABPage() {
   return (
     <div className="bg-black text-white min-h-screen font-sans">
       {/* Hero Section */}
-      <section className="h-screen bg-cover bg-center flex items-center justify-center text-center" style={{ backgroundImage: 'url(/barberlab-hero.jpg)' }}
+      <section className="h-screen bg-cover bg-center flex items-center justify-center text-center" style={{ backgroundImage: 'url(/barberlab-hero.jpg)' }} 
+
 >
         <div className="bg-black bg-opacity-60 p-6 rounded-2xl shadow-xl">
           <h1 className="text-5xl font-bold mb-4">BarberLAB</h1>
